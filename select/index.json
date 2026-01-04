@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "モーニング娘。 『ハッピーサマーウェディング』 (MV)",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-01-04T12:10:42.072733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーサマーウェディング",
+      "artist": "ハロー、ハッピーワールド！",
+      "has_synced": true,
+      "path": "select/01_ハッピーサマーウェディング_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピーサマーウェディング - Cover",
+      "artist": "ハロー、ハッピーワールド!",
+      "has_synced": true,
+      "path": "select/02_ハッピーサマーウェディング_-_Cover_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピーサマーウェディング",
+      "artist": "Hello, Happy World!",
+      "has_synced": true,
+      "path": "select/03_ハッピーサマーウェディング_Hello,_Happy_World!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーサマーウェディング",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーサマーウェディング_モーニング娘。.txt"
+    }
+  ]
+}
